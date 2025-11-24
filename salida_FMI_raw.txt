@@ -61,3 +61,1200 @@ D10
 real	1m5,901s
 user	1m5,014s
 sys	0m0,840s
+--- FMI Repetición 4 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	1m14,019s
+user	1m13,119s
+sys	0m0,809s
+--- FMI Repetición 5 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	1m13,476s
+user	1m12,488s
+sys	0m0,941s
+--- FMI Repetición 6 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	1m19,385s
+user	1m18,380s
+sys	0m0,969s
+--- FMI Repetición 7 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	1m9,403s
+user	1m8,299s
+sys	0m1,012s
+--- FMI Repetición 8 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	1m12,515s
+user	1m11,613s
+sys	0m0,840s
+--- FMI Repetición 9 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	1m5,022s
+user	1m4,191s
+sys	0m0,800s
+--- FMI Repetición 10 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	1m4,279s
+user	1m3,413s
+sys	0m0,831s
+--- FMI Repetición 11 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	1m4,854s
+user	1m4,051s
+sys	0m0,787s
+--- FMI Repetición 12 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	1m15,080s
+user	1m14,162s
+sys	0m0,885s
+--- FMI Repetición 13 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	1m9,079s
+user	1m8,228s
+sys	0m0,827s
+--- FMI Repetición 14 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	1m9,747s
+user	1m8,851s
+sys	0m0,839s
+--- FMI Repetición 15 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	1m5,743s
+user	1m4,912s
+sys	0m0,813s
+--- FMI Repetición 16 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	1m17,742s
+user	1m16,687s
+sys	0m1,007s
+--- FMI Repetición 17 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	1m16,182s
+user	1m15,223s
+sys	0m0,909s
+--- FMI Repetición 18 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m59,757s
+user	0m58,988s
+sys	0m0,756s
+--- FMI Repetición 19 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	1m1,227s
+user	1m0,478s
+sys	0m0,734s
+--- FMI Repetición 20 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	1m0,845s
+user	1m0,105s
+sys	0m0,730s
+--- FMI Repetición 21 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	1m1,587s
+user	1m0,841s
+sys	0m0,729s
+--- FMI Repetición 22 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	1m1,716s
+user	1m0,906s
+sys	0m0,800s
+--- FMI Repetición 23 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	1m0,698s
+user	0m59,951s
+sys	0m0,735s
+--- FMI Repetición 24 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	1m10,955s
+user	1m10,154s
+sys	0m0,797s
+--- FMI Repetición 25 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	1m4,230s
+user	1m3,409s
+sys	0m0,787s
+--- FMI Repetición 26 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	1m3,438s
+user	1m2,645s
+sys	0m0,776s
+--- FMI Repetición 27 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	1m1,176s
+user	1m0,443s
+sys	0m0,730s
+--- FMI Repetición 28 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	1m2,263s
+user	1m1,443s
+sys	0m0,798s
+--- FMI Repetición 29 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	1m2,158s
+user	1m1,379s
+sys	0m0,750s
+--- FMI Repetición 30 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	1m0,371s
+user	0m59,578s
+sys	0m0,734s
+--- FMI Repetición 1 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	1m13,922s
+user	1m12,930s
+sys	0m0,949s
+--- FMI Repetición 2 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	1m5,882s
+user	1m5,105s
+sys	0m0,767s
+--- FMI Repetición 3 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	1m14,879s
+user	1m13,858s
+sys	0m1,010s
+--- FMI Repetición 4 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	1m13,402s
+user	1m12,403s
+sys	0m0,964s
+--- FMI Repetición 5 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	1m15,760s
+user	1m14,822s
+sys	0m0,903s
+--- FMI Repetición 6 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	1m10,494s
+user	1m9,705s
+sys	0m0,750s
+--- FMI Repetición 7 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	1m10,677s
+user	1m9,675s
+sys	0m0,958s
+--- FMI Repetición 8 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	1m16,517s
+user	1m15,565s
+sys	0m0,916s
+--- FMI Repetición 9 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	1m13,880s
+user	1m12,869s
+sys	0m0,958s
+--- FMI Repetición 10 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	1m14,240s
+user	1m13,321s
+sys	0m0,900s
+--- FMI Repetición 11 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	1m9,202s
+user	1m8,250s
+sys	0m0,917s
+--- FMI Repetición 12 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	1m15,305s
+user	1m14,287s
+sys	0m0,999s
+--- FMI Repetición 13 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	1m16,167s
+user	1m15,195s
+sys	0m0,950s
+--- FMI Repetición 14 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	1m19,508s
+user	1m18,426s
+sys	0m1,066s
+--- FMI Repetición 15 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	1m25,277s
+user	1m24,227s
+sys	0m1,005s
+--- FMI Repetición 16 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	1m0,927s
+user	1m0,069s
+sys	0m0,835s
+--- FMI Repetición 17 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	1m1,439s
+user	1m0,657s
+sys	0m0,776s
+--- FMI Repetición 18 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m58,755s
+user	0m58,057s
+sys	0m0,692s
+--- FMI Repetición 19 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m59,934s
+user	0m59,173s
+sys	0m0,745s
+--- FMI Repetición 20 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	1m0,220s
+user	0m59,441s
+sys	0m0,753s
+--- FMI Repetición 21 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m57,970s
+user	0m57,170s
+sys	0m0,756s
+--- FMI Repetición 22 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m58,667s
+user	0m57,877s
+sys	0m0,764s
+--- FMI Repetición 23 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	1m0,912s
+user	1m0,175s
+sys	0m0,722s
+--- FMI Repetición 24 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	1m0,478s
+user	0m59,741s
+sys	0m0,729s
+--- FMI Repetición 25 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m59,912s
+user	0m59,209s
+sys	0m0,691s
+--- FMI Repetición 26 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m59,937s
+user	0m59,181s
+sys	0m0,706s
+--- FMI Repetición 27 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	1m0,362s
+user	0m59,634s
+sys	0m0,722s
+--- FMI Repetición 28 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m58,110s
+user	0m57,344s
+sys	0m0,747s
+--- FMI Repetición 29 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m58,423s
+user	0m57,711s
+sys	0m0,706s
+--- FMI Repetición 30 - Patron databa ---
+Construyendo el FM-index con csa_wt<wt_int<rrr_vector<>>> ...
+Tamaño del FM-index 17.5723 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias: 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m57,009s
+user	0m56,235s
+sys	0m0,726s

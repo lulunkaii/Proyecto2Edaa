@@ -1,1 +1,5 @@
 Estructura,Patron,Repeticion,Tiempo_Construccion_Real,Num_Ocurrencias,Documentos_Encontrados
+FMI,Patron1,1,0.56,15,3
+SA,Patron1,1,0.92,15,3
+FMI,Patron2,1,0.58,4,1
+SA,Patron2,1,0.95,4,1

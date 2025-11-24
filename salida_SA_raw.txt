@@ -103,3 +103,1179 @@ D10
 real	0m5,611s
 user	0m5,445s
 sys	0m0,157s
+--- SA Repetición 5 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m5,095s
+user	0m4,957s
+sys	0m0,132s
+--- SA Repetición 6 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m5,699s
+user	0m5,556s
+sys	0m0,143s
+--- SA Repetición 7 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m7,846s
+user	0m7,638s
+sys	0m0,199s
+--- SA Repetición 8 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m6,096s
+user	0m5,918s
+sys	0m0,164s
+--- SA Repetición 9 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m5,938s
+user	0m5,780s
+sys	0m0,150s
+--- SA Repetición 10 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m5,264s
+user	0m5,093s
+sys	0m0,166s
+--- SA Repetición 11 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m5,013s
+user	0m4,845s
+sys	0m0,158s
+--- SA Repetición 12 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m5,222s
+user	0m5,060s
+sys	0m0,146s
+--- SA Repetición 13 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m5,488s
+user	0m5,321s
+sys	0m0,162s
+--- SA Repetición 14 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m5,786s
+user	0m5,628s
+sys	0m0,158s
+--- SA Repetición 15 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m5,390s
+user	0m5,229s
+sys	0m0,154s
+--- SA Repetición 16 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m5,319s
+user	0m5,158s
+sys	0m0,160s
+--- SA Repetición 17 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m5,935s
+user	0m5,704s
+sys	0m0,218s
+--- SA Repetición 18 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m5,015s
+user	0m4,846s
+sys	0m0,162s
+--- SA Repetición 19 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m5,172s
+user	0m5,029s
+sys	0m0,138s
+--- SA Repetición 20 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m4,893s
+user	0m4,721s
+sys	0m0,167s
+--- SA Repetición 21 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m4,989s
+user	0m4,846s
+sys	0m0,140s
+--- SA Repetición 22 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m4,771s
+user	0m4,632s
+sys	0m0,139s
+--- SA Repetición 23 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m5,149s
+user	0m5,008s
+sys	0m0,141s
+--- SA Repetición 24 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m4,885s
+user	0m4,748s
+sys	0m0,135s
+--- SA Repetición 25 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m5,049s
+user	0m4,893s
+sys	0m0,154s
+--- SA Repetición 26 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m5,018s
+user	0m4,856s
+sys	0m0,160s
+--- SA Repetición 27 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m4,717s
+user	0m4,589s
+sys	0m0,127s
+--- SA Repetición 28 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m5,125s
+user	0m4,948s
+sys	0m0,164s
+--- SA Repetición 29 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m4,885s
+user	0m4,743s
+sys	0m0,138s
+--- SA Repetición 30 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m4,821s
+user	0m4,676s
+sys	0m0,136s
+--- SA Repetición 1 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m5,029s
+user	0m4,874s
+sys	0m0,144s
+--- SA Repetición 2 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m6,710s
+user	0m6,506s
+sys	0m0,196s
+--- SA Repetición 3 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m4,974s
+user	0m4,824s
+sys	0m0,149s
+--- SA Repetición 4 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m5,302s
+user	0m5,152s
+sys	0m0,139s
+--- SA Repetición 5 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m5,665s
+user	0m5,479s
+sys	0m0,186s
+--- SA Repetición 6 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m5,084s
+user	0m4,935s
+sys	0m0,149s
+--- SA Repetición 7 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m6,167s
+user	0m6,004s
+sys	0m0,151s
+--- SA Repetición 8 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m6,178s
+user	0m5,964s
+sys	0m0,195s
+--- SA Repetición 9 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m4,955s
+user	0m4,810s
+sys	0m0,142s
+--- SA Repetición 10 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m5,160s
+user	0m4,995s
+sys	0m0,161s
+--- SA Repetición 11 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m6,333s
+user	0m6,167s
+sys	0m0,161s
+--- SA Repetición 12 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m6,209s
+user	0m6,038s
+sys	0m0,160s
+--- SA Repetición 13 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m5,436s
+user	0m5,272s
+sys	0m0,161s
+--- SA Repetición 14 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m8,035s
+user	0m7,722s
+sys	0m0,302s
+--- SA Repetición 15 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m7,161s
+user	0m6,963s
+sys	0m0,187s
+--- SA Repetición 16 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m7,925s
+user	0m7,659s
+sys	0m0,244s
+--- SA Repetición 17 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m4,887s
+user	0m4,733s
+sys	0m0,154s
+--- SA Repetición 18 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m4,984s
+user	0m4,827s
+sys	0m0,149s
+--- SA Repetición 19 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m4,732s
+user	0m4,589s
+sys	0m0,138s
+--- SA Repetición 20 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m4,798s
+user	0m4,614s
+sys	0m0,166s
+--- SA Repetición 21 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m4,803s
+user	0m4,658s
+sys	0m0,144s
+--- SA Repetición 22 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m4,871s
+user	0m4,740s
+sys	0m0,128s
+--- SA Repetición 23 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m4,703s
+user	0m4,552s
+sys	0m0,131s
+--- SA Repetición 24 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m4,787s
+user	0m4,637s
+sys	0m0,145s
+--- SA Repetición 25 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m4,788s
+user	0m4,653s
+sys	0m0,129s
+--- SA Repetición 26 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m4,689s
+user	0m4,543s
+sys	0m0,142s
+--- SA Repetición 27 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m4,733s
+user	0m4,582s
+sys	0m0,144s
+--- SA Repetición 28 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m4,759s
+user	0m4,618s
+sys	0m0,134s
+--- SA Repetición 29 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m5,004s
+user	0m4,864s
+sys	0m0,126s
+--- SA Repetición 30 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 1062
+Las ocurrencias se encuentran en los documentos (doc_locate): 
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+
+real	0m4,623s
+user	0m4,476s
+sys	0m0,138s
