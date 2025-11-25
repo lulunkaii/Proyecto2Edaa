@@ -30,8 +30,6 @@ for i in $(seq 1 $REPETICIONES); do
     # La salida incluye el tiempo real de ejecucion (Time) y el output del programa (SA Output)
     SA_OUTPUT=$( { time echo "$PATRON" | ./sa "$TEXTO_CONCATENADO"; } 2>&1 )
     
-    # Aquí puedes parsear SA_OUTPUT para extraer métricas si tu programa C++ reporta el tiempo interno.
-    
     # Por simplicidad, añadimos toda la salida a un archivo separado, junto con el tiempo externo
     echo "--- SA Repetición $i - Patron $PATRON ---" >> salida_SA_raw.txt
     echo "$SA_OUTPUT" >> salida_SA_raw.txt

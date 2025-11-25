@@ -4,7 +4,7 @@ import os
 DATA_DIR = "datasets/dblp/"
 OUTPUT_TEXT_FILE = "corpus_T.txt"
 OUTPUT_POS_FILE = "posiciones.txt"
-DELIMITER = "$" # Carácter separador entre documentos ($ o un byte poco común, como '\x01')
+DELIMITER = "$" # Carácter separador entre documentos
 NUM_DOCS = 10
 # --------------------
 
@@ -12,8 +12,7 @@ NUM_DOCS = 10
 # El primer documento siempre inicia en la posición 0
 start_positions = [0] 
 
-# Usaremos 'wb' (write binary) para asegurar que el tamaño sea exacto en bytes,
-# aunque estemos leyendo texto (XML)
+# Usaremos 'wb' (write binary) para asegurar que el tamaño sea exacto en bytes, aunque estemos leyendo texto (XML)
 with open(OUTPUT_TEXT_FILE, 'wb') as t_file:
     print(f"Concatenando archivos en {OUTPUT_TEXT_FILE}...")
     

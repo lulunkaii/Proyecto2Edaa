@@ -8,8 +8,8 @@
 
 #include <string>
 #include <iostream>
-#include <algorithm> // Necesario para std::copy
-#include <set> // Para almacenar documentos únicos
+#include <algorithm>
+#include <set>
 #include <fstream> 
 #include <vector>  
 #include <sdsl/rrr_vector.hpp> 
@@ -79,7 +79,6 @@ int main(int argc, char** argv) {
       return 1;
   }
 
-  // CORRECCIÓN FINAL: Redimensionar y usar std::copy
   size_t num_docs = temp_positions.size();
   start_positions.resize(num_docs); 
   std::copy(temp_positions.begin(), temp_positions.end(), start_positions.begin()); 

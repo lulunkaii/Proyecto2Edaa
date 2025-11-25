@@ -8,13 +8,13 @@
 //    sa.cpp -o sa -lsdsl -ldivsufsort -ldivsufsort64
 
 #include <sdsl/suffix_arrays.hpp>
-#include <sdsl/util.hpp> // Incluye size_in_mega_bytes y sdsl::util::assign
+#include <sdsl/util.hpp>
 #include <string>
 #include <iostream>
-#include <algorithm> // Necesario para std::copy
-#include <set> // Para almacenar documentos únicos
-#include <fstream> // Para cargar el archivo de posiciones
-#include <vector> // Para cargar datos temporalmente
+#include <algorithm>
+#include <set>
+#include <fstream>
+#include <vector>
 
 using namespace sdsl;
 using namespace std;
@@ -111,7 +111,6 @@ int main(int argc, char** argv) {
       return 1;
   }
 
-  // CORRECCIÓN FINAL: Redimensionar y usar std::copy
   size_t num_docs = temp_positions.size();
   start_positions.resize(num_docs); 
   std::copy(temp_positions.begin(), temp_positions.end(), start_positions.begin()); 
