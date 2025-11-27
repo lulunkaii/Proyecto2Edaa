@@ -1,0 +1,1080 @@
+--- SA Repetición 1 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 7080.53,0.046452,0,0
+--- SA Repetición 2 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 8503.59,0.04414,0,0
+--- SA Repetición 3 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6758.74,0.02467,0,0
+--- SA Repetición 4 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 7718.55,0.020365,0,0
+--- SA Repetición 5 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 7106.54,0.021831,0,0
+--- SA Repetición 6 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 8133.45,0.052511,0,0
+--- SA Repetición 7 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6408.47,0.025275,0,0
+--- SA Repetición 8 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6660.03,0.024489,0,0
+--- SA Repetición 9 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5920.45,0.024168,0,0
+--- SA Repetición 10 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6312.01,0.015184,0,0
+--- SA Repetición 11 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 7441.72,0.025573,0,0
+--- SA Repetición 12 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6584.76,0.01407,0,0
+--- SA Repetición 13 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 7635.91,0.018745,0,0
+--- SA Repetición 14 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 7931.16,0.049173,0,0
+--- SA Repetición 15 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6000.55,0.036246,0,0
+--- SA Repetición 16 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5746.83,0.021384,0,0
+--- SA Repetición 17 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6160.45,0.026721,0,0
+--- SA Repetición 18 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6222.56,0.046545,0,0
+--- SA Repetición 19 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5649.91,0.023526,0,0
+--- SA Repetición 20 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5861.14,0.019448,0,0
+--- SA Repetición 21 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5484.69,0.016414,0,0
+--- SA Repetición 22 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5734.3,0.020555,0,0
+--- SA Repetición 23 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5878.69,0.016441,0,0
+--- SA Repetición 24 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5715.25,0.018768,0,0
+--- SA Repetición 25 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5488.26,0.029457,0,0
+--- SA Repetición 26 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5706.64,0.025313,0,0
+--- SA Repetición 27 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5597.51,0.023144,0,0
+--- SA Repetición 28 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5525.02,0.014956,0,0
+--- SA Repetición 29 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5165.67,0.03594,0,0
+--- SA Repetición 30 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5370.73,0.013791,0,0
+--- SA Repetición 1 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5341.03,0.021091,34,9
+--- SA Repetición 2 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5392.71,0.026155,34,9
+--- SA Repetición 3 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5261.04,0.038757,34,9
+--- SA Repetición 4 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5306.15,0.01913,34,9
+--- SA Repetición 5 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5232.67,0.026161,34,9
+--- SA Repetición 6 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5145.21,0.018437,34,9
+--- SA Repetición 7 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5173.25,0.018294,34,9
+--- SA Repetición 8 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5255.64,0.020078,34,9
+--- SA Repetición 9 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5181.29,0.038214,34,9
+--- SA Repetición 10 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5103.11,0.018716,34,9
+--- SA Repetición 11 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5070.5,0.019172,34,9
+--- SA Repetición 12 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 4975.28,0.019358,34,9
+--- SA Repetición 13 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5024.28,0.022154,34,9
+--- SA Repetición 14 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5267.71,0.019778,34,9
+--- SA Repetición 15 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 4720.74,0.038784,34,9
+--- SA Repetición 16 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5676.8,0.024684,34,9
+--- SA Repetición 17 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6180.71,0.018897,34,9
+--- SA Repetición 18 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6200.73,0.020111,34,9
+--- SA Repetición 19 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6747.42,0.025138,34,9
+--- SA Repetición 20 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6695.15,0.034827,34,9
+--- SA Repetición 21 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6724.03,0.017627,34,9
+--- SA Repetición 22 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5926.94,0.042903,34,9
+--- SA Repetición 23 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6628.23,0.036938,34,9
+--- SA Repetición 24 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6428.04,0.046568,34,9
+--- SA Repetición 25 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6217.52,0.042284,34,9
+--- SA Repetición 26 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6503.88,0.025911,34,9
+--- SA Repetición 27 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6421.09,0.027586,34,9
+--- SA Repetición 28 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6364.44,0.022239,34,9
+--- SA Repetición 29 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5778.98,0.018698,34,9
+--- SA Repetición 30 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6444.89,0.043115,34,9
+--- SA Repetición 1 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6087.19,0.057081,328,10
+--- SA Repetición 2 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5969.32,0.038352,328,10
+--- SA Repetición 3 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6382,0.087706,328,10
+--- SA Repetición 4 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6121.08,0.059501,328,10
+--- SA Repetición 5 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6033.99,0.048505,328,10
+--- SA Repetición 6 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5533.24,0.038136,328,10
+--- SA Repetición 7 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6308.09,0.044124,328,10
+--- SA Repetición 8 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5888.45,0.043576,328,10
+--- SA Repetición 9 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6123.32,0.044087,328,10
+--- SA Repetición 10 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6702.44,0.055875,328,10
+--- SA Repetición 11 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6179.13,0.039555,328,10
+--- SA Repetición 12 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5938.05,0.05253,328,10
+--- SA Repetición 13 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5795.63,0.054936,328,10
+--- SA Repetición 14 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6258.18,0.052684,328,10
+--- SA Repetición 15 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5885.33,0.044738,328,10
+--- SA Repetición 16 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6023.41,0.048476,328,10
+--- SA Repetición 17 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5666.42,0.04199,328,10
+--- SA Repetición 18 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5632.54,0.056178,328,10
+--- SA Repetición 19 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6024.18,0.046558,328,10
+--- SA Repetición 20 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5875.23,0.039143,328,10
+--- SA Repetición 21 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5412.14,0.046542,328,10
+--- SA Repetición 22 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5629.24,0.062575,328,10
+--- SA Repetición 23 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6089.29,0.041464,328,10
+--- SA Repetición 24 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5694.99,0.044823,328,10
+--- SA Repetición 25 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6340.64,0.034547,328,10
+--- SA Repetición 26 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5617.18,0.044649,328,10
+--- SA Repetición 27 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5772.08,0.043933,328,10
+--- SA Repetición 28 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5733.85,0.035657,328,10
+--- SA Repetición 29 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6016.42,0.039451,328,10
+--- SA Repetición 30 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6190.76,0.040996,328,10
+--- SA Repetición 1 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6982.54,0.018727,0,0
+--- SA Repetición 2 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5136.01,0.015847,0,0
+--- SA Repetición 3 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6609.93,0.036625,0,0
+--- SA Repetición 4 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6479.09,0.047781,0,0
+--- SA Repetición 5 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6645.97,0.014165,0,0
+--- SA Repetición 6 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6704.02,0.064262,0,0
+--- SA Repetición 7 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6180.89,0.013762,0,0
+--- SA Repetición 8 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5090.98,0.014486,0,0
+--- SA Repetición 9 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5890.66,0.016108,0,0
+--- SA Repetición 10 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5009.22,0.039319,0,0
+--- SA Repetición 11 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6461.62,0.035923,0,0
+--- SA Repetición 12 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6391.45,0.021825,0,0
+--- SA Repetición 13 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6593.36,0.013993,0,0
+--- SA Repetición 14 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6052.29,0.017226,0,0
+--- SA Repetición 15 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 4577.29,0.018913,0,0
+--- SA Repetición 16 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6197.51,0.027906,0,0
+--- SA Repetición 17 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6479.05,0.025938,0,0
+--- SA Repetición 18 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6052.72,0.021753,0,0
+--- SA Repetición 19 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6005.39,0.019724,0,0
+--- SA Repetición 20 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6241.27,0.022229,0,0
+--- SA Repetición 21 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6446.62,0.051463,0,0
+--- SA Repetición 22 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6679.99,0.059403,0,0
+--- SA Repetición 23 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 4417.22,0.019527,0,0
+--- SA Repetición 24 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5600.25,0.017466,0,0
+--- SA Repetición 25 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6188.58,0.020677,0,0
+--- SA Repetición 26 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6307.24,0.019675,0,0
+--- SA Repetición 27 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6305.61,0.025083,0,0
+--- SA Repetición 28 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6017.98,0.023101,0,0
+--- SA Repetición 29 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5939.95,0.01654,0,0
+--- SA Repetición 30 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6242.28,0.021266,0,0
+--- SA Repetición 1 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5915.19,0.015407,0,0
+--- SA Repetición 2 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6259.04,0.018734,0,0
+--- SA Repetición 3 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6240.63,0.01401,0,0
+--- SA Repetición 4 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5846.22,0.020509,0,0
+--- SA Repetición 5 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6101.17,0.025037,0,0
+--- SA Repetición 6 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5641.56,0.029429,0,0
+--- SA Repetición 7 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5853.52,0.020114,0,0
+--- SA Repetición 8 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5658.36,0.022826,0,0
+--- SA Repetición 9 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5954.27,0.027281,0,0
+--- SA Repetición 10 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6320.58,0.013138,0,0
+--- SA Repetición 11 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6336.14,0.034733,0,0
+--- SA Repetición 12 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6473.58,0.012428,0,0
+--- SA Repetición 13 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5609.9,0.012196,0,0
+--- SA Repetición 14 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5747.8,0.03658,0,0
+--- SA Repetición 15 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5925.75,0.021283,0,0
+--- SA Repetición 16 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5102.75,0.011916,0,0
+--- SA Repetición 17 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6925.89,0.03492,0,0
+--- SA Repetición 18 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 4130.01,0.010383,0,0
+--- SA Repetición 19 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6215.51,0.011343,0,0
+--- SA Repetición 20 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5953.78,0.027633,0,0
+--- SA Repetición 21 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6242.2,0.038216,0,0
+--- SA Repetición 22 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6179.75,0.017977,0,0
+--- SA Repetición 23 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6328.44,0.019492,0,0
+--- SA Repetición 24 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6510.22,0.018009,0,0
+--- SA Repetición 25 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5907.79,0.022731,0,0
+--- SA Repetición 26 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5919.58,0.01992,0,0
+--- SA Repetición 27 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5207.66,0.011225,0,0
+--- SA Repetición 28 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 6675.62,0.01537,0,0
+--- SA Repetición 29 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5377.75,0.011064,0,0
+--- SA Repetición 30 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 7215.95,0.016705,0,0
+--- SA Repetición 1 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5585.94,0.024766,0,0
+--- SA Repetición 2 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5403.45,0.01543,0,0
+--- SA Repetición 3 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5754.11,0.019092,0,0
+--- SA Repetición 4 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 4529.32,0.014929,0,0
+--- SA Repetición 5 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5318.95,0.013199,0,0
+--- SA Repetición 6 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5536.96,0.02554,0,0
+--- SA Repetición 7 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5976.78,0.018991,0,0
+--- SA Repetición 8 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5898.02,0.023011,0,0
+--- SA Repetición 9 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5703.75,0.021118,0,0
+--- SA Repetición 10 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 4706.97,0.023491,0,0
+--- SA Repetición 11 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5513.25,0.017748,0,0
+--- SA Repetición 12 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5365.61,0.030739,0,0
+--- SA Repetición 13 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 4741,0.013237,0,0
+--- SA Repetición 14 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5752.83,0.026238,0,0
+--- SA Repetición 15 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5794.01,0.065504,0,0
+--- SA Repetición 16 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5478.19,0.015016,0,0
+--- SA Repetición 17 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5561.9,0.016279,0,0
+--- SA Repetición 18 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5228.73,0.019758,0,0
+--- SA Repetición 19 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 4647.41,0.013229,0,0
+--- SA Repetición 20 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5975.79,0.017296,0,0
+--- SA Repetición 21 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5209.83,0.021218,0,0
+--- SA Repetición 22 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5417.9,0.016902,0,0
+--- SA Repetición 23 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5598.17,0.035764,0,0
+--- SA Repetición 24 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5475.41,0.019237,0,0
+--- SA Repetición 25 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5435.96,0.019453,0,0
+--- SA Repetición 26 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5784.12,0.027133,0,0
+--- SA Repetición 27 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5604.27,0.014696,0,0
+--- SA Repetición 28 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 5285.82,0.017689,0,0
+--- SA Repetición 29 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 4730.2,0.015533,0,0
+--- SA Repetición 30 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: 4362.3,0.038811,0,0

@@ -1,0 +1,1080 @@
+--- SA Repetición 1 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 2 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 3 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 4 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 5 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 6 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 7 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 8 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 9 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 10 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 11 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 12 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 13 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 14 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 15 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 16 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 17 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 18 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 19 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 20 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 21 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 22 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 23 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 24 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 25 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 26 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 27 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 28 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 29 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 30 - Patron <title> ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 1 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 2 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 3 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 4 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 5 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 6 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 7 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 8 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 9 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 10 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 11 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 12 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 13 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 14 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 15 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 16 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 17 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 18 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 19 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 20 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 21 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 22 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 23 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 24 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 25 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 26 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 27 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 28 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 29 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 30 - Patron databa ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 1 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 2 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 3 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 4 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 5 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 6 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 7 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 8 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 9 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 10 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 11 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 12 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 13 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 14 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 15 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 16 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 17 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 18 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 19 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 20 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 21 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 22 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 23 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 24 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 25 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 26 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 27 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 28 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 29 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 30 - Patron algorithm ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 1 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 2 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 3 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 4 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 5 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 6 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 7 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 8 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 9 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 10 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 11 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 12 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 13 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 14 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 15 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 16 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 17 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 18 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 19 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 20 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 21 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 22 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 23 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 24 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 25 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 26 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 27 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 28 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 29 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 30 - Patron computational ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 1 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 2 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 3 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 4 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 5 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 6 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 7 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 8 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 9 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 10 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 11 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 12 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 13 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 14 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 15 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 16 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 17 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 18 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 19 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 20 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 21 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 22 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 23 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 24 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 25 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 26 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 27 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 28 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 29 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 30 - Patron XXYZ123abcXYZ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 1 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 2 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 3 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 4 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 5 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 6 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 7 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 8 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 9 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 10 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 11 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 12 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 13 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 14 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 15 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 16 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 17 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 18 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 19 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 20 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 21 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 22 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 23 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 24 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 25 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 26 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 27 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 28 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 29 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
+--- SA Repetición 30 - Patron article$ ---
+Construyendo el Suffix array ...
+Tamaño del SA 162.5 MB.
+Se cargaron 10 posiciones de inicio de documentos.
+
+Ingrese un patrón a buscar: # de ocurrencias (rango SA): 0
